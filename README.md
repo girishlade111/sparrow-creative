@@ -537,3 +537,6 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ---
 
 **Built with ❤️ by the Sparrow Creative team**
+## About the Author
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
